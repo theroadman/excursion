@@ -1,0 +1,16 @@
+* {
+  background-color: rgb(25, 25, 25);
+  text-align: center;
+  font-family: Verdana, sans-serif, Arial;
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+a {
+  color: Aquamarine;
+  font-size: 18px;
+}
