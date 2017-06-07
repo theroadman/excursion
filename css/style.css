@@ -24,3 +24,7 @@ a {
   color: Aquamarine;
   font-size: 18px;
 }
+
+.right {
+  text-align: right;
+}
